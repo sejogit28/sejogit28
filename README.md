@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning how to create, deploy and maintain bigger and bigger apps that give users what they want
 - 💞️ I’m looking to collaborate on learning sanything web developement and how using design patterns allows for better code
 - 📫 You can reach me at: 
--- My linkedin --- https://www.linkedin.com/in/sean-joseph-41ab49114
--- My personal blog --- https://fervent-darwin-5bcd5e.netlify.app
+- - My linkedin -- https://www.linkedin.com/in/sean-joseph-41ab49114
+- - My personal blog -- https://fervent-darwin-5bcd5e.netlify.app
 
 
 <!---
