@@ -1,12 +1,12 @@
 -  Hi, I’m Sean Joseph aka @sejogit28
 - I'm interested in:
-- - Web development using various technologies from the .NET ecosystem and the MERN stack
-- - XR Development and 3d model creation using various technologies such as Blender, Unity, Aframe/ARJs etc.
+- -Full Stack Web development using various technologies from the .NET ecosystem and the MERN stack
 - -Using different architectures and different design patterns to solve different user problems.
-- 🌱 I’m currently creating, deploying and maintaining React based frontend projects, .Net Web Api's, Blazor(WASM and Server) and XR apps.
+- - Game Engine Development using C++ and other lower level languages.
+- 🌱 I’m currently creating, deploying, and maintaining React-based frontend projects, .Net Web Api's, Blazor(WASM and Server) and XR apps.
 - 📫 You can reach me at: 
-- - My linkedin -- https://www.linkedin.com/in/sean-joseph-41ab49114
-- - My personal blog -- https://tender-bohr-ca754b.netlify.app
+- - Linkedin -- https://www.linkedin.com/in/sean-joseph-41ab49114
+- - Portfolio -- https://www.sejose.tech
 
 
 <!---
